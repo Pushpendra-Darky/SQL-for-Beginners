@@ -1,0 +1,9 @@
+Q1-
+
+from the customers table, select the first name and phone number of all the females who have a last name of Bluth.
+
+Q2-
+from the products table, select the name for all products that have a price greater than 3.00 or a coffee origin of Sri Lanka.
+
+Q3-
+how many male customers don't have a phone number entered into the customers tables?

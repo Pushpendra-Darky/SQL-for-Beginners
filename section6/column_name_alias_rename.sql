@@ -1,0 +1,7 @@
+USE coffee_store;
+
+/*CHANGING COLUMN NAME ONLY IN RESULT SET NOT IN DATABASE*/
+SELECT name AS coffee, price AS rate FROM PRODUCTS;
+
+SELECT * FROM products;
+

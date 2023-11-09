@@ -1,0 +1,9 @@
+Q1-
+
+From the customers table, select distinct last names and order alphabetically from A-Z.
+
+Q2-
+From the orders table, select the first 3 orders placed by customer with id 1, in February 2017.
+
+Q3-
+From the products table, selet the name, price and coffee origin but rename the price to retail_price in the result set.
