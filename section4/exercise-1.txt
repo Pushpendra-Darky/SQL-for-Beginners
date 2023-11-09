@@ -1,0 +1,9 @@
+EXERCISE1:
+
+
+* add a primary key to the id field in the pets and people tables.
+* add a foreign key to the owner_id field in the pets table refrencing the id field in the people table,
+* add a column named email to the people table,
+* add a unique constraint to the email column in the people table,
+* rename the name column in the pets table to 'first_name',
+* change the postcode data type tpCHAR(7) in the addresses table.

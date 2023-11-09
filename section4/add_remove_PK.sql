@@ -1,0 +1,32 @@
+USE test;
+
+/* ADD A PRIMARY KEY TO A TABLE
+ALTER TABLE <tablename>
+ADD PRIMARY KEY columnname);
+*/
+
+/* REMOVE A PRIMARY KEY TO A TABLE
+ALTER TABLE <tablename>
+DROP PRIMARY KEY;
+*/
+
+DESCRIBE addresses; /*SHOIND TABLE ATTR*/
+
+ALTER TABLE addresses
+ADD PRIMARY KEY (id);
+
+#DESCRIBE addresses;
+
+ALTER TABLE addresses
+DROP PRIMARY KEY;
+
+#DESCRIBE addresses;
+
+DESCRIBE people;
+ALTER TABLE people
+ADD PRIMARY KEY (id);
+#DESCRIBE addresses;
+
+ALTER TABLE people
+DROP PRIMARY KEY;
+#DESCRIBE addresses;
