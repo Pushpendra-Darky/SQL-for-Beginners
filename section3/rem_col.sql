@@ -1,0 +1,4 @@
+ #REMOVE COLUMN FROM A TABLE
+ 
+ ALTER TABLE products
+ DROP COLUMN coffee_origin;
