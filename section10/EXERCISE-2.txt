@@ -1,0 +1,2 @@
+Q1- Select the customer id and count the number of reserved seats grouped by customer for October 2017. 
+Q2- Select the film name and count the number of screenings for each film that is over 2 hours long.

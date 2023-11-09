@@ -1,0 +1,3 @@
+Q1.  How many bookings did customer id 10 make in October 2017.
+Q2.  Count the number of screenings for Blade Runner 2049 in October 2017. 
+Q3.  Count the number of unique customers who made a booking for October 2017.
